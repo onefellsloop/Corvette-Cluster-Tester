@@ -1,4 +1,15 @@
 # Corvette Cluster Tester
+
+Forked from Mikael K. of Youtube fame
+
+Project:
+198? Corvette CPU
+
+Happily this has the sche-matic/pinout from the CPU so we can do something similar but reversed: Use the CPU to drive a different display.
+Even though the LCD is beautiful.
+
+
+
 ## Test the Corvette Cluster 1984-1989 LCD panel
 
 This is something I did while trying to repair a Corvette Digital Cluster from 1985.
